@@ -1,0 +1,5 @@
+{
+  "name": "kumo-local-ds-explore-subagent",
+  "private": true,
+  "type": "module"
+}

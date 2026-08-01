@@ -1,0 +1,5 @@
+{
+  "name": "kumo-local-subagent",
+  "private": true,
+  "type": "module"
+}
